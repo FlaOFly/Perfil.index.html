@@ -5,14 +5,11 @@ body{
     padding: 0;
     line-height: 1.6;
 }
-.container {
+img {
   display: flex;
   justify-content: center; 
-  align-items: center;     
-  height: 100vh;           
-}
-
-.foto-perfil {
-  width: 150px;      
+  align-items: center; 
+  width: 150px;    
+  height: 100vh;               
   border-radius: 50%;
 }
