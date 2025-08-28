@@ -12,6 +12,10 @@ body{
     border: 4px solid #787878;
     object-fit: cover;
 }
+div.a {
+  text-align: center;
+}
+
 .center {
   display: flex;
   justify-content: center;
